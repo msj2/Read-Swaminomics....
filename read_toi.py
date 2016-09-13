@@ -9,7 +9,7 @@ import lxml.html
 from sys import argv
 start=datetime.now()
 #full_url = raw_input("URL enter maadi: ")
-full_url = argv[1]
+
 #full_url = "http://blogs.timesofindia.indiatimes.com/Swaminomics/do-not-misuse-lokpal-act-to-harass-ngos/"
 
 content = lxml.html.parse(full_url)

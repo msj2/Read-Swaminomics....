@@ -1,3 +1,6 @@
+'''
+this doesn't work for swarajyamag.com.... 
+'''
 #http://blogs.timesofindia.indiatimes.com/Swaminomics/do-not-misuse-lokpal-act-to-harass-ngos/
 
 #	Try reading above page....
